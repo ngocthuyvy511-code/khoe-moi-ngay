@@ -1,0 +1,6 @@
+{
+  "name": "Khỏe Mỗi Ngày - Quản Lý Cân Nặng & Thói Quen Lành Mạnh",
+  "description": "Ứng dụng theo dõi cân nặng, dinh dưỡng món ăn Việt, nước uống, vận động và giấc ngủ bền vững, nhân văn cho người Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
